@@ -1,4 +1,4 @@
-Thank you for downloading Rocky the Rocket!
+Thank you for downloading Rocky the Rocket! Please note that for now, Rocky the Rocket only works on Windows systems.
 
 After downloading, make sure all files are extracted in the same directory. Then, double-click on the Rocky.exe Application File to run the game.
 
